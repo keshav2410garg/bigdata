@@ -1,0 +1,41 @@
+h1 {
+  color: red;
+  text-align: center;
+}
+h2 {
+  color: green;
+  text-align: center;
+}
+h3 {
+  color: blue;
+  text-align: center;
+}
+.img {
+  margin-left: 500px;
+}
+body {
+  background-color: yellow;
+}
+p {
+  font-size: 30px;
+}
+.img1 {
+  margin-left: 500px;
+}
+h4 {
+  font-size: 30px;
+}
+h5 {
+  font-size: 30px;
+}
+p1 {
+  color: red;
+  font-size: 30px;
+}
+h6 {
+  text-align: right;
+  font-size: 25px
+}
+.img2 {
+  margin-left: 500px;
+}
